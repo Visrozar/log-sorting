@@ -1,7 +1,7 @@
 {
-  "name": "seso-coding-challange",
+  "name": "log-sorting",
   "version": "1.0.0",
-  "description": "Coding Challenge",
+  "description": "Printed logs from multiple sources in chronological order",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
