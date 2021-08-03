@@ -1,7 +1,5 @@
 # Log Sorting
 
-<br>
-
 ## Plan
 
 1. Get first log from all sources
