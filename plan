@@ -1,0 +1,4 @@
+1. Get first log from all sources
+2. Store it in an array in a sorted manner using binary search and splice
+4. Print the first value of the object and replace it with new log of the same source again using the binary insert algo.
+5. Keep doing it until all log sources are exhausted
